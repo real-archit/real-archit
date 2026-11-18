@@ -4,7 +4,7 @@
 
 **Computer Science student | Backend & Backend Development | Machine Learning**
 
-###Currently learning, building projects, and improving my problem-solving skills.
+**Currently learning, building projects, and improving my problem-solving skills.**
 
 
 <p>
