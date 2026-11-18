@@ -13,9 +13,6 @@
   <a href="https://www.linkedin.com/in/archittiwari07/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="https://www.youtube.com/@archittiwari07">
-    <img src="https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube" alt="YouTube"/>
-  </a>
 </p>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=real-archit&style=flat&color=blue)](https://github.com/real-archit)
@@ -138,7 +135,6 @@ If you're working on something interesting around backend engineering, AI, or de
 
 <p>
   <a href="https://www.linkedin.com/in/archittiwari07/"><img src="https://img.shields.io/badge/LinkedIn-Archit_Tiwari-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
-  <a href="https://www.youtube.com/@archittiwari07"><img src="https://img.shields.io/badge/YouTube-Archit_Tiwari-FF0000?style=for-the-badge&logo=youtube" alt="YouTube"/></a>
   <a href="https://github.com/real-archit"><img src="https://img.shields.io/badge/GitHub-real--archit-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
 </p>
 
