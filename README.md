@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hi, I'm Archit 👋
+# Hey, I'm Archit 👋
 
-### I'm a Computer Science student at PSIT, Kanpur, interested in backend development and AI.
+**Computer Science student | Backend & Backend Development | Machine Learning**
 
-**I spend my time learning, building projects, solving DSA problems, and exploring new technologies.**
+###Currently learning, building projects, and improving my problem-solving skills.
 
 
 <p>
