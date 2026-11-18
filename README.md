@@ -32,12 +32,12 @@ I enjoy working across the backend: designing APIs, connecting services, working
 
 I learn best by building. Instead of keeping ideas on a notes page, I try to turn them into working projects, test what I build, understand what breaks, and improve the implementation.
 
-- 🎓 Pursuing **B.Tech in Computer Science Engineering** (2026–2030).
-- ⚙️ Currently focused on **backend development, Python, FastAPI, Java, and problem-solving**.
-- 🤖 Interested in **applied AI, AI-powered products, and intelligent automation**.
-- 🧩 Practising **Data Structures & Algorithms** and strengthening computer science fundamentals.
-- 🚀 Building projects that connect software with real-world problems.
-- 🎥 Creator with experience building an online audience through technology and educational content.
+- Pursuing **B.Tech in Computer Science Engineering** (2026–2030).
+- Currently focused on **backend development, Python, FastAPI, Java, and problem-solving**.
+- Interested in **applied AI, AI-powered products, and intelligent automation**.
+- Practising **Data Structures & Algorithms** and strengthening computer science fundamentals.
+- Building projects that connect software with real-world problems.
+- Creator with experience building an online audience through technology and educational content.
 
 > My goal is to become an engineer who can take an idea from problem definition to a reliable, working product.
 
@@ -50,7 +50,7 @@ I learn best by building. Instead of keeping ideas on a notes page, I try to tur
 
 ### Backend & APIs
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,spring,mysql,sqlite,supabase" alt="FastAPI, Spring, MySQL, SQLite and Supabase"/>
+  <img src="https://skillicons.dev/icons?i=fastapi,mysql,sqlite,supabase" alt="FastAPI, MySQL, SQLite and Supabase"/>
 </p>
 
 ### Tools & Platforms
@@ -59,9 +59,9 @@ I learn best by building. Instead of keeping ideas on a notes page, I try to tur
 </p>
 
 ### Currently learning
-- Backend engineering with **FastAPI and Spring Boot**
+- Backend engineering with **FastAPI**
 - Database design, SQL, and API architecture
-- Data Structures & Algorithms with Java
+- Data Structures & Algorithms with Python
 - Building and integrating AI-powered features
 
 ## Featured Projects
