@@ -1,10 +1,11 @@
 <div align="center">
 
-# Hi, I'm Archit Tiwari 👋
+# Hi, I'm Archit 👋
 
-### Building useful software. Learning by shipping. Growing one project at a time.
+### I'm a Computer Science student at PSIT, Kanpur, interested in backend development and AI.
 
-**B.Tech Computer Science Engineering student · Backend & AI/ML enthusiast · Builder**
+**I spend my time learning, building projects, solving DSA problems, and exploring new technologies.**
+
 
 <p>
   <a href="https://github.com/real-archit">
